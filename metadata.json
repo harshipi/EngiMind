@@ -1,0 +1,5 @@
+{
+  "name": "EngiMind - AI Study Companion",
+  "description": "An advanced study aid for Engineering students (ECE, EE, CSE, IT). Generate comprehensive notes and practice questions from text, image, or video inputs.",
+  "requestFramePermissions": []
+}
